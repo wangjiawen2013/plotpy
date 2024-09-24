@@ -97,7 +97,7 @@ pub use crate::as_matrix::*;
 pub use crate::as_vector::*;
 pub use crate::auxiliary::*;
 pub use crate::barplot::*;
-pub use crate::boxplot::*;
+pub use boxplot::*;
 pub use crate::canvas::*;
 pub use crate::constants::*;
 pub use crate::contour::*;
